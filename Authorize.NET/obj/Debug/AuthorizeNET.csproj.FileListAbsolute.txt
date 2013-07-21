@@ -1,0 +1,5 @@
+C:\Users\Michael\Documents\Staunch\TFS\Staunch Creative Group\michael.champagne\creditCard\staunchAuthorize\Authorize.NET\bin\Debug\AuthorizeNet.dll
+C:\Users\Michael\Documents\Staunch\TFS\Staunch Creative Group\michael.champagne\creditCard\staunchAuthorize\Authorize.NET\bin\Debug\AuthorizeNet.pdb
+C:\Users\Michael\Documents\Staunch\TFS\Staunch Creative Group\michael.champagne\creditCard\staunchAuthorize\Authorize.NET\obj\Debug\AuthorizeNet.dll
+C:\Users\Michael\Documents\Staunch\TFS\Staunch Creative Group\michael.champagne\creditCard\staunchAuthorize\Authorize.NET\obj\Debug\AuthorizeNet.pdb
+C:\Users\Michael\Documents\Staunch\TFS\Staunch Creative Group\michael.champagne\creditCard\staunchAuthorize\Authorize.NET\bin\Debug\AuthorizeNet.XML
